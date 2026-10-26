@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Patrick 👋
+# Hi, I'm Patrick
 
 I build small, self-running automations: GitHub Actions instead of servers,
 Markdown instead of databases, and n8n workflows that are documented well
@@ -30,6 +30,6 @@ enough to reuse. Most of it starts as a tool I needed myself.
 ## Elsewhere
 
 - [Telosignal](https://www.telosignal.com/): index of 13,500+ n8n templates
-- [YouTube](https://www.youtube.com/@patrick-siewert): building these tools, step by step
-- [Automate Genius](https://www.skool.com/automate-genius-9494): community for n8n and AI automation
+- [YouTube](https://www.youtube.com/@patrick-siewert): one real case per video: what I built, what broke, and the source
+- [Automate Genius](https://www.skool.com/automate-genius-9494): community for people building with n8n
 - Issues and PRs welcome on any of the repos above
