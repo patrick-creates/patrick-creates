@@ -1,26 +1,8 @@
-<!--
-**patrick-creates/patrick-creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Patrick
 
 I build automations with n8n, GitHub Actions and AI, from small scripts up to
 pipelines with their own database and services. Most of that runs in private
 repos; what's public here are the tools that are useful on their own.
-
-<!--
-<img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,postgres,docker,githubactions,vercel,linux&perline=11" alt="Python, JavaScript, TypeScript, Node.js, React, Next.js, PostgreSQL, Docker, GitHub Actions, Vercel, Linux" />
--->
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,6 +26,6 @@ repos; what's public here are the tools that are useful on their own.
 ## Elsewhere
 
 - [Telosignal](https://www.telosignal.com/): index of 13,500+ n8n templates
-- [YouTube](https://www.youtube.com/@patrick-siewert): one real case per video: what I built, what broke, and the source
+- [YouTube](https://www.youtube.com/@patrick-siewert): what I built, what broke, and the source, one case per video
 - [Automate Genius](https://www.skool.com/automate-genius-9494): community for people building with n8n
 - Issues and PRs welcome on any of the repos above
